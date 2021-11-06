@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pacificg" alt="pacificg" /></a> </p>
 
-- 🔭 I’m currently working on [Computational Finance](https://www/github.com/pacificg)
+- 🔭 I’m currently working as [NLP Engineer](https://www/github.com/pacificg)
 
 - 🌱 I’m currently learning **Reinforcement Learning**
 
