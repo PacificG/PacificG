@@ -1,17 +1,10 @@
 <h1 align="center">Hi 👋, I'm Prashant</h1>
-<h3 align="center">A passionate Data Science Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pacificg&label=Profile%20views&color=0e75b6&style=flat" alt="pacificg" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pacificg" alt="pacificg" /></a> </p>
 
-- 🔭 I’m currently working as [NLP Engineer](https://www/github.com/pacificg)
 
-- 🌱 I’m currently learning **Reinforcement Learning**
-
-- 👨‍💻 All of my projects are available at [https://www.github.com/pacificg](https://www.github.com/pacificg)
-
-- 💬 Ask me about **Statistics, Probability, Data Science**
 
 - 📫 How to reach me **prashantkumar15@sggscc.ac.in**
 
